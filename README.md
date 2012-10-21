@@ -1,4 +1,6 @@
-labc
-====
+laborki z  C
+=========
 
-zadania z laboratorium w C
+Szablony programów:
+
+    
